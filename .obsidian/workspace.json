@@ -56,14 +56,6 @@
                 "sortOrder": "alphabetical"
               }
             }
-          },
-          {
-            "id": "a7334209e06d2b6e",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {}
-            }
           }
         ]
       }
@@ -148,6 +140,9 @@
   },
   "active": "c9f7c1f53f544be2",
   "lastOpenFiles": [
+    "Sync/sync.bat",
+    "Sync/sync.sh",
+    "Sync",
     "English/Working and Study English.md",
     "English/Untitled 1.md",
     "English/Untitled.md",
