@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English/Working and Study English.md",
+                "file": "English/Learning, Working and Study English.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f382b01e4ee63c5d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "English/Have and Has.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -61,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "bd88e68a8d52bf43",
@@ -78,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English/Working and Study English.md",
+                "file": "English/Have and Has.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "English/Working and Study English.md",
+                "file": "English/Have and Has.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English/Working and Study English.md"
+                "file": "English/Have and Has.md"
               }
             }
           }
@@ -139,14 +151,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c9f7c1f53f544be2",
+  "active": "f382b01e4ee63c5d",
   "lastOpenFiles": [
+    "English/Learning, Working and Study English.md",
+    "English/Have and Has.md",
+    "Images/Pasted image 20240928222905.png",
     "Sync/sync.bat",
     "Sync/sync.sh",
     "Sync",
-    "English/Working and Study English.md",
     "English/Untitled 1.md",
-    "English/Untitled.md",
     "Images/05 1.jpg",
     "English/Untitled 2.md",
     "05.jpg",
