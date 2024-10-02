@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2b9782e50424be50",
+        "id": "77ce2db3961d14ce",
         "type": "tabs",
         "children": [
           {
-            "id": "c9f7c1f53f544be2",
+            "id": "c845451a163fa0d1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "f382b01e4ee63c5d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "English/Have and Has.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -69,6 +56,14 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "d770a0a4cd415ec7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -90,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English/Have and Has.md",
+                "file": "English/Learning, Working and Study English.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "English/Have and Has.md",
+                "file": "English/Learning, Working and Study English.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English/Have and Has.md"
+                "file": "English/Learning, Working and Study English.md"
               }
             }
           }
@@ -151,21 +146,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f382b01e4ee63c5d",
+  "active": "c845451a163fa0d1",
   "lastOpenFiles": [
-    "English/Learning, Working and Study English.md",
     "English/Have and Has.md",
+    "English/Nouns.md",
+    "English/Learning, Working and Study English.md",
+    "Images/nouns.svg",
+    "Images/have-has.svg",
+    "Images/05 1.jpg",
+    "Images/05.jpg",
     "Images/Pasted image 20240928222905.png",
     "Sync/sync.bat",
     "Sync/sync.sh",
     "Sync",
     "English/Untitled 1.md",
-    "Images/05 1.jpg",
     "English/Untitled 2.md",
     "05.jpg",
     "Untitled 1.md",
     "Untitled.md",
-    "Images/05.jpg",
     "Images",
     "English.md",
     "English"

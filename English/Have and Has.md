@@ -18,5 +18,8 @@ Have and has are forms of the verb "to have", essential for expressing possessio
 - I have a small nose  
 - My sister has small eyes 
 - My friend has long hair 
-- My brother has a big nose
+- My brother has a big nose 
+
+
+![[have-has.svg]]
 
