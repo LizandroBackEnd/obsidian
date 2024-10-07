@@ -1,1 +1,2 @@
-## TEMARY
+## TEMARY 
+[[Factory Method]]
