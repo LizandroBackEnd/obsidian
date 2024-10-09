@@ -4,47 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "77ce2db3961d14ce",
+        "id": "08574eb87fc35fb5",
         "type": "tabs",
         "children": [
           {
-            "id": "c845451a163fa0d1",
+            "id": "d7651c7ddfdbe0d8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Programming.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "31a476c7d6d39701",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Design patterns.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e385f570a8b41fd1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Design patterns.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Design patterns.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/Design patterns.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Programming/Design patterns.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -171,13 +138,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e385f570a8b41fd1",
+  "active": "d7651c7ddfdbe0d8",
   "lastOpenFiles": [
-    "Programming/Factory Method.md",
+    "Programming/Desing patterns",
+    "Untitled",
     "Programming/Design patterns.md",
+    "Programming/Programming.md",
+    "Programming/Desing patterns/Factory Method.md",
     "Programming/Clean code with Python.md",
     "Programming/Book Clean Code.md",
-    "Programming/Programming.md",
     "Files/Codigo limpio - Robert Cecil Martin.pdf",
     "Files",
     "English/Learning, Working and Study English.md",
