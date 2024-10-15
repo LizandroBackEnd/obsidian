@@ -9,4 +9,17 @@ English is one of the most important languages globally for several reasons:
 ### TEMARY
  [[Have and Has]]  
  [[Nouns]]
+ [[Personal Pronouns]] 
+ [[Possessive Pronouns]] 
+ [[Demonstrative Pronouns]] 
+ [[Interrogative Pronouns]] 
+ [[Reflexive Pronouns]] 
+ [[Singular definite article]] 
+ [[Singular indefinite article]] 
+ [[Comparative]] 
+ [[Superlatives]] 
+ [[Present simple]] 
+ [[Present continuous]] 
+ [[Present perfect simple]] 
+ [[Present perfect continuous]] 
  

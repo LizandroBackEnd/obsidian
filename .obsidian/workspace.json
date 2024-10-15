@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "eb7ebac46a86a01e",
+        "id": "77a1a441cfefd474",
         "type": "tabs",
         "children": [
           {
-            "id": "2b92ca1a27720689",
+            "id": "17ccee94e02a617a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Book Clean Code.md",
+                "file": "English/Have and Has.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Book Clean Code.md",
+                "file": "English/Have and Has.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/Book Clean Code.md",
+                "file": "English/Have and Has.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Book Clean Code.md"
+                "file": "English/Have and Has.md"
               }
             }
           }
@@ -146,25 +146,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2b92ca1a27720689",
+  "active": "17ccee94e02a617a",
   "lastOpenFiles": [
+    "English/Learning, Working and Study English.md",
+    "English/Structure sentences/Structure of negative sentences.md",
+    "English/Simple question example.md",
+    "English/Formation of questions with.md",
+    "English/Structure sentences/Untitled.md",
+    "English/Comparative.md",
+    "English/Structure sentences",
+    "Untitled 1",
+    "Untitled",
+    "English/Past continuous.md",
+    "English/Past simple.md",
+    "English/Present perfect continuous.md",
+    "English/Present perfect simple.md",
+    "English/Present continuous.md",
+    "English/Present simple.md",
+    "English/Superlatives.md",
+    "English/Singular indefinite article.md",
+    "English/Singular definite article.md",
+    "English/Reflexive Pronouns.md",
+    "English/Interrogative Pronouns.md",
+    "English/Demonstrative Pronouns.md",
+    "English/Possessive Pronouns.md",
+    "English/Personal Pronouns.md",
+    "Programming/Book Clean Code.md",
     "Programming/Desing patterns/Factory Method.md",
     "Programming/Desing patterns",
-    "Untitled",
     "Programming/Design patterns.md",
     "Programming/Programming.md",
     "Programming/Clean code with Python.md",
-    "Programming/Book Clean Code.md",
     "Files/Codigo limpio - Robert Cecil Martin.pdf",
     "Files",
-    "English/Learning, Working and Study English.md",
     "Images/Pasted image 20241006222106.png",
-    "English/Untitled.md",
     "Mathematics",
     "Programming",
     "English/Programing.md",
-    "English/Have and Has.md",
-    "English/Nouns.md",
     "Images/nouns.svg",
     "Images/have-has.svg",
     "Images/05 1.jpg",
@@ -172,13 +190,6 @@
     "Images/Pasted image 20240928222905.png",
     "Sync/sync.bat",
     "Sync/sync.sh",
-    "Sync",
-    "English/Untitled 1.md",
-    "English/Untitled 2.md",
-    "05.jpg",
-    "Untitled 1.md",
-    "Untitled.md",
-    "Images",
-    "English.md"
+    "05.jpg"
   ]
 }
